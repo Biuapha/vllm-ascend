@@ -1,0 +1,125 @@
+vllm_ascend/attention/context_parallel/sfa_cp.py
+  s_cdf319019f46cd::t_063859ac371fa1 438
+  s_cdf319019f46cd::t_277c83597111a5 387,392,396
+  s_cdf319019f46cd::t_29c86f2097fa7b 383-386
+vllm_ascend/device/device_op.py
+  s_cdf319019f46cd::t_c46f9c2fde237e 1383-1384
+  s_cdf319019f46cd::t_e6aaf79dcc6b9c 324-325
+  s_cdf319019f46cd::t_3562faf609b38f 1371-1372,1379-1380
+  s_cdf319019f46cd::t_dba9e1be9fbdff 345
+  s_cdf319019f46cd::t_81dcacfb843654 309-310,320-321
+vllm_ascend/ops/mla.py
+  s_cdf319019f46cd::t_f16fc4cb8ef1dd 46-47,54
+  s_cdf319019f46cd::t_2a45408fcdf370 42-43
+  s_cdf319019f46cd::t_e2f09cfb4b3f8e 35-36
+  s_cdf319019f46cd::t_c3e14a05915216 68,70-72
+  s_cdf319019f46cd::t_e3964d17fe86a4 57
+  s_cdf319019f46cd::t_74247349172775 44-45,50,55-56
+  s_cdf319019f46cd::t_d9e15c365e6d16 62-67,69
+  s_cdf319019f46cd::t_add361521c395f 111
+  s_cdf319019f46cd::t_7a3de669e60d6c 59-61
+  s_cdf319019f46cd::t_45952fcd1fa50b 37-39
+vllm_ascend/attention/sfa_v1.py
+  s_cdf319019f46cd::t_a217bbb08856ca 1373
+  s_cdf319019f46cd::t_1110065837757c 1372
+  s_cdf319019f46cd::t_1f02cba4874681 1374
+  s_cdf319019f46cd::t_9a94d3d04845c8 1460
+  s_cdf319019f46cd::t_e5f51a4d4dd3a5 1426-1445,1447-1450
+  s_cdf319019f46cd::t_d43d58abea01bf 1339
+  s_cdf319019f46cd::t_36c34109b50621 1337-1338
+  s_cdf319019f46cd::t_d540be87904d50 1454-1456
+  s_cdf319019f46cd::t_aa9c680c2ade8e 1388-1390
+  s_cdf319019f46cd::t_9ef4713dfcdaae 1451-1453
+  s_cdf319019f46cd::t_5eb0e4dba0735f 1340
+  s_cdf319019f46cd::t_23204580740b20 1391
+  s_cdf319019f46cd::t_0ee919756ee388 1461
+vllm_ascend/attention/indexer.py
+  s_cdf319019f46cd::t_d8f8523f5198d4 144-145
+  s_cdf319019f46cd::t_f8c72b68d910f4 459
+  s_cdf319019f46cd::t_2e2560467df20e 204-213
+  s_cdf319019f46cd::t_51dcb265fa1fc6 410-411
+  s_cdf319019f46cd::t_1808bdde03e726 190-191
+  s_cdf319019f46cd::t_5b5cc47561599a 174-179
+  s_cdf319019f46cd::t_8e1751e8fa429d 429-430
+  s_cdf319019f46cd::t_2ebd7984dc5da6 193-196
+  s_cdf319019f46cd::t_d76c4b85bfa4b8 159-161
+  s_cdf319019f46cd::t_40f44512344f23 94-95
+  s_cdf319019f46cd::t_9a99534d75754e 4,6-8,10,21-22,25
+  s_cdf319019f46cd::t_5bd0626b180794 56
+  s_cdf319019f46cd::t_a05279d360d3d4 172-173
+  s_cdf319019f46cd::t_aafa7a6156b855 77-79
+  s_cdf319019f46cd::t_91131165424dd9 146-148
+  s_cdf319019f46cd::t_f55a5c1e944daa 66
+  s_cdf319019f46cd::t_09821b27b584b0 254
+  s_cdf319019f46cd::t_8a30e3971ea57b 336
+  s_cdf319019f46cd::t_9dfb203f7e2582 303-308,315-335,343,345-346,358-362
+  s_cdf319019f46cd::t_05a00b8f24bbf6 480
+  s_cdf319019f46cd::t_7e69810b51231e 486-489
+  s_cdf319019f46cd::t_3fdd7a0ce4c09b 180
+  s_cdf319019f46cd::t_6d5b127cdb1519 266-267
+  s_cdf319019f46cd::t_5f81b14e23e83c 92-93
+  s_cdf319019f46cd::t_d4dc403fccd1bb 110-111
+  s_cdf319019f46cd::t_956933e6497ea1 9,23,26,28-31
+  s_cdf319019f46cd::t_5ae0bccc08936d 511
+  s_cdf319019f46cd::t_425d9861dd27c7 404-407
+  s_cdf319019f46cd::t_3a78a7419005b9 418-419
+  s_cdf319019f46cd::t_0e283ad40f1b52 337-342,344,366-369,371-372,376
+  s_cdf319019f46cd::t_96eca880a1c677 271
+  s_cdf319019f46cd::t_ea1241eae4a4d5 73-76
+  s_cdf319019f46cd::t_ebaa4d3d1e8208 112-113
+  s_cdf319019f46cd::t_f61ae4f68cec8d 1,18,20,24,57-65,457-458,474-478,485,490-510
+  s_cdf319019f46cd::t_86e15385fe9f72 347-357
+  s_cdf319019f46cd::t_ba0ae3da4c9b35 435-437
+  s_cdf319019f46cd::t_1ee6e71d0c747d 192,197-203,214-246
+  s_cdf319019f46cd::t_b864cdc2a2198b 289-292
+  s_cdf319019f46cd::t_e58a732ac42688 149-158,162-167,170-171,181-189,255-259,265,268-270,273-288,293-298,364-365,370,373-375,377-395,397-403,408-409,412-417,420-428,431
+  s_cdf319019f46cd::t_5723ebb4cfb580 299-302
+  s_cdf319019f46cd::t_a3ecca7a060de4 432-434
+  s_cdf319019f46cd::t_0cab58645f3a83 396
+  s_cdf319019f46cd::t_6f4bb80c50b503 168-169
+  s_cdf319019f46cd::t_2c99cf998c0716 309-314
+  s_cdf319019f46cd::t_f3e7471b311d28 479,481-484
+  s_cdf319019f46cd::t_1bc8047e63a361 363
+  s_cdf319019f46cd::t_9fa065c26f7206 247-253
+  s_cdf319019f46cd::t_cbd66464ae8dd0 53-55
+  s_cdf319019f46cd::t_263e542cb432f0 67-72
+  s_cdf319019f46cd::t_d64b27640c22b2 260-264
+  s_cdf319019f46cd::t_1d3e827a76bb29 32-52,445
+  s_cdf319019f46cd::t_ee811cb4ecac00 80-82
+  s_cdf319019f46cd::t_b5a118a4735bd7 83-85
+  s_cdf319019f46cd::t_bb95cd251dd494 438-440,442-444
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "276a489fb0408cf4a179dba071892c89a850065d",
+  "prompts": {},
+  "humans": {
+    "h_eebeaa3a97d25d": {
+      "author": "guoxiaohui (D) <g00672350@china.huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_cdf319019f46cd": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8fca04ab61cc4f23dd842e",
+        "model": "kimi-k3"
+      },
+      "human_author": "guoxiaohui (D) <g00672350@china.huawei.com>",
+      "custom_attributes": {
+        "tool_type": "builtin",
+        "runtime_client": "trae-tob-git-ai",
+        "edit_kind": "file_edit",
+        "client_type": "ide",
+        "external_session_id": "6a8fca04ab61cc4f23dd842e",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "dedupe_key": "6a8fca04ab61cc4f23dd842e:6a9917e2f67724d2a79e0b38:afterEdit:f73dc58e",
+        "source_scene": "agent",
+        "session_id": "6a8fca04ab61cc4f23dd842e",
+        "tool_use_id": "6a9917e2f67724d2a79e0b38",
+        "operation_id": "6a9917e2f67724d2a79e0b38"
+      }
+    }
+  }
+}
