@@ -1,0 +1,196 @@
+tests/ut/attention/test_sfa_v1.py
+  s_cdf319019f46cd::t_53c88c770a3f76 264
+  s_cdf319019f46cd::t_e952b2687e65fe 278-286,291-298
+  s_cdf319019f46cd::t_6ea74b2698f52b 308,317-319,322-333,338-342
+  s_cdf319019f46cd::t_569465e6e537e6 266
+  s_cdf319019f46cd::t_fc0728c2c1600b 33
+  s_cdf319019f46cd::t_0063b537cf8faa 250-252
+  s_cdf319019f46cd::t_cc91cbb3c3bebc 253
+  s_cdf319019f46cd::t_b602a2fe751028 276-277
+  s_cdf319019f46cd::t_b10b778947eef2 287-290
+  s_cdf319019f46cd::t_0d3b5c76913e7a 299-301
+  s_cdf319019f46cd::t_d8cf0473cb9af1 316
+  s_cdf319019f46cd::t_0f543d7b1183b8 320-321
+  s_cdf319019f46cd::t_8fce7447db0d14 334-335
+  s_cdf319019f46cd::t_e47986e5ab959c 337
+  s_cdf319019f46cd::t_95fe7d76053547 343
+vllm_ascend/attention/indexer.py
+  s_cdf319019f46cd::t_0e283ad40f1b52 337-342,344,366-369,371-372,376
+  s_cdf319019f46cd::t_9a99534d75754e 4,6-8,10,21-22,25
+  s_cdf319019f46cd::t_f3e7471b311d28 479,481-484
+  s_cdf319019f46cd::t_5bd0626b180794 56
+  s_cdf319019f46cd::t_8e1751e8fa429d 429-430
+  s_cdf319019f46cd::t_956933e6497ea1 9,23,26,28-31
+  s_cdf319019f46cd::t_cbd66464ae8dd0 53-55
+  s_cdf319019f46cd::t_5b5cc47561599a 174-179
+  s_cdf319019f46cd::t_40f44512344f23 94-95
+  s_cdf319019f46cd::t_ea1241eae4a4d5 73-76
+  s_cdf319019f46cd::t_263e542cb432f0 67-72
+  s_cdf319019f46cd::t_e58a732ac42688 149-158,162-167,170-171,181-189,255-259,265,268-270,273-288,293-298,364-365,370,373-375,377-395,397-403,408-409,412-417,420-428,431
+  s_cdf319019f46cd::t_1ee6e71d0c747d 192,197-203,214-246
+  s_cdf319019f46cd::t_05a00b8f24bbf6 480
+  s_cdf319019f46cd::t_09821b27b584b0 254
+  s_cdf319019f46cd::t_d4dc403fccd1bb 110-111
+  s_cdf319019f46cd::t_9dfb203f7e2582 303-308,315-335,343,345-346,358-362
+  s_cdf319019f46cd::t_0cab58645f3a83 396
+  s_cdf319019f46cd::t_f61ae4f68cec8d 1,18,20,24,57-65,457-458,474-478,485,490-510
+  s_cdf319019f46cd::t_1d3e827a76bb29 32-34,50-52
+  s_cdf319019f46cd::t_f55a5c1e944daa 66
+  s_cdf319019f46cd::t_aafa7a6156b855 77-79
+  s_cdf319019f46cd::t_5f81b14e23e83c 92-93
+  s_cdf319019f46cd::t_ebaa4d3d1e8208 112-113
+  s_cdf319019f46cd::t_91131165424dd9 146-148
+  s_cdf319019f46cd::t_d76c4b85bfa4b8 159-161
+  s_cdf319019f46cd::t_6f4bb80c50b503 168-169
+  s_cdf319019f46cd::t_a05279d360d3d4 172-173
+  s_cdf319019f46cd::t_3fdd7a0ce4c09b 180
+  s_cdf319019f46cd::t_1808bdde03e726 190-191
+  s_cdf319019f46cd::t_2ebd7984dc5da6 193-196
+  s_cdf319019f46cd::t_2e2560467df20e 204-206,211-213
+  s_cdf319019f46cd::t_9fa065c26f7206 247-249,251-253
+  s_cdf319019f46cd::t_d64b27640c22b2 260-264
+  s_cdf319019f46cd::t_6d5b127cdb1519 266-267
+  s_cdf319019f46cd::t_96eca880a1c677 271
+  s_cdf319019f46cd::t_b864cdc2a2198b 289-292
+  s_cdf319019f46cd::t_5723ebb4cfb580 299-302
+  s_cdf319019f46cd::t_2c99cf998c0716 309-314
+  s_cdf319019f46cd::t_8a30e3971ea57b 336
+  s_cdf319019f46cd::t_86e15385fe9f72 347-349,355-357
+  s_cdf319019f46cd::t_1bc8047e63a361 363
+  s_cdf319019f46cd::t_425d9861dd27c7 404-407
+  s_cdf319019f46cd::t_51dcb265fa1fc6 410-411
+  s_cdf319019f46cd::t_3a78a7419005b9 418-419
+  s_cdf319019f46cd::t_a3ecca7a060de4 432-434
+  s_cdf319019f46cd::t_f8c72b68d910f4 459
+  s_cdf319019f46cd::t_7e69810b51231e 486-489
+  s_cdf319019f46cd::t_5ae0bccc08936d 511
+tests/ut/ops/test_mla.py
+  s_cdf319019f46cd::t_e215b14e3fff0b 138
+  s_cdf319019f46cd::t_ffdb28efc9e6b8 288-290
+  s_cdf319019f46cd::t_04450f0931999e 106-113,124-126,140,142,149,151,153-159,162
+  s_cdf319019f46cd::t_4692957c009878 1
+  s_cdf319019f46cd::t_675613a76dc615 36-37
+  s_cdf319019f46cd::t_df32d3d1def960 150
+  s_cdf319019f46cd::t_94aa29a4ec3a66 306,309
+  s_cdf319019f46cd::t_9ee036e27d599c 20,31-33,39-40,42,46-55,58-60,66-67,72-73,80-81,84,86-90,92-93
+  s_cdf319019f46cd::t_c3f470243f18bb 152
+  s_cdf319019f46cd::t_229671834114ed 399
+  s_cdf319019f46cd::t_13da0678204882 95,98-102,258-259,261-267,272-276,280-281,283-287,292-293,297-298,300-305,307,311-316
+  s_cdf319019f46cd::t_36175924803248 11,14
+  s_cdf319019f46cd::t_517bfca5d09d09 12-13,15
+  s_cdf319019f46cd::t_04db1f7dc31977 76-78
+  s_cdf319019f46cd::t_c56ca7662cd1e4 75,79,82
+  s_cdf319019f46cd::t_1a157f60236f24 104,114-115,118-123,128-137,141,143-147,160,163-192,195-254
+  s_cdf319019f46cd::t_b0b44399f28659 116-117
+  s_cdf319019f46cd::t_60f2b0f7198c19 62,65,68
+  s_cdf319019f46cd::t_baaea496c18600 63-64
+  s_cdf319019f46cd::t_3667c76848a87d 268-270
+  s_cdf319019f46cd::t_fb376b414f9422 320-326
+  s_cdf319019f46cd::t_130ac140efeb48 364
+  s_cdf319019f46cd::t_5873644d50dac4 367
+  s_cdf319019f46cd::t_033d3c6743fcfe 412
+  s_cdf319019f46cd::t_4fc4b03f6c390e 35,38,41
+  s_cdf319019f46cd::t_54cd31491209e7 329-330
+  s_cdf319019f46cd::t_1ecc9d6647d4bc 319,332-333
+  s_cdf319019f46cd::t_d704eab5a79b6e 19
+  s_cdf319019f46cd::t_81433a840886c4 34
+  s_cdf319019f46cd::t_159ce228ddfb28 61
+  s_cdf319019f46cd::t_84142f48010b2a 69-71
+  s_cdf319019f46cd::t_a3b4b637183ec5 74
+  s_cdf319019f46cd::t_668b53606134ab 83
+  s_cdf319019f46cd::t_3c062bf7a5b504 85
+  s_cdf319019f46cd::t_10e2b4858c4b4c 91
+  s_cdf319019f46cd::t_a172de178f6dd0 94
+  s_cdf319019f46cd::t_7b1b615dbbbeae 96-97
+  s_cdf319019f46cd::t_6d30f31c1e041f 103
+  s_cdf319019f46cd::t_214d1089adc4ac 105
+  s_cdf319019f46cd::t_0e79276c39e48e 127
+  s_cdf319019f46cd::t_20e99ffef16528 139
+  s_cdf319019f46cd::t_e83ae1fac325be 148
+  s_cdf319019f46cd::t_3be3617519a4a9 161
+  s_cdf319019f46cd::t_a37e3462430de8 255-257
+  s_cdf319019f46cd::t_28e6eeaf087a16 260
+  s_cdf319019f46cd::t_682cbc58751199 271
+  s_cdf319019f46cd::t_4076f1142a711e 277-279
+  s_cdf319019f46cd::t_d6a7a687c1942a 282
+  s_cdf319019f46cd::t_6260e1220f6278 291
+  s_cdf319019f46cd::t_8829baea4999e4 294-296
+  s_cdf319019f46cd::t_9886baad001f6d 299
+  s_cdf319019f46cd::t_138d0b26bde2da 308
+  s_cdf319019f46cd::t_15e5d51fee28cd 310
+  s_cdf319019f46cd::t_eca7241f76fb76 317-318
+  s_cdf319019f46cd::t_bb3baac26b9414 327-328
+  s_cdf319019f46cd::t_c94b65a1a2237a 331
+vllm_ascend/ops/mla.py
+  s_cdf319019f46cd::t_74247349172775 44-45,50,55-56
+  s_cdf319019f46cd::t_e2f09cfb4b3f8e 35-36
+  s_cdf319019f46cd::t_f16fc4cb8ef1dd 46-47,54
+  s_cdf319019f46cd::t_d9e15c365e6d16 62-67,69
+  s_cdf319019f46cd::t_c3e14a05915216 68,70-72
+  s_cdf319019f46cd::t_add361521c395f 111
+  s_cdf319019f46cd::t_45952fcd1fa50b 37-39
+  s_cdf319019f46cd::t_2a45408fcdf370 42-43
+  s_cdf319019f46cd::t_e3964d17fe86a4 57
+  s_cdf319019f46cd::t_7a3de669e60d6c 59-61
+vllm_ascend/attention/context_parallel/sfa_cp.py
+  s_cdf319019f46cd::t_277c83597111a5 387,392,396
+  s_cdf319019f46cd::t_063859ac371fa1 438
+  s_cdf319019f46cd::t_29c86f2097fa7b 383-386
+tests/ut/attention/test_indexer.py
+  s_cdf319019f46cd::t_0828c425d56d90 106-120
+  s_cdf319019f46cd::t_1cb5b70d5ca75e 20,28-29,37
+  s_cdf319019f46cd::t_9e350fcd30ba1e 4-5,13,17-19,21-27,30-36,38-56,71-77,79,81-101,103-105,121-140
+vllm_ascend/attention/sfa_v1.py
+  s_cdf319019f46cd::t_a217bbb08856ca 1373
+  s_cdf319019f46cd::t_d43d58abea01bf 1339
+  s_cdf319019f46cd::t_e5f51a4d4dd3a5 1426-1445,1447-1450
+  s_cdf319019f46cd::t_0ee919756ee388 1461
+  s_cdf319019f46cd::t_9a94d3d04845c8 1460
+  s_cdf319019f46cd::t_aa9c680c2ade8e 1388-1390
+  s_cdf319019f46cd::t_36c34109b50621 1337-1338
+  s_cdf319019f46cd::t_5eb0e4dba0735f 1340
+  s_cdf319019f46cd::t_1110065837757c 1372
+  s_cdf319019f46cd::t_1f02cba4874681 1374
+  s_cdf319019f46cd::t_23204580740b20 1391
+  s_cdf319019f46cd::t_9ef4713dfcdaae 1451-1453
+vllm_ascend/device/device_op.py
+  s_cdf319019f46cd::t_81dcacfb843654 309-310,320-321
+  s_cdf319019f46cd::t_e6aaf79dcc6b9c 324-325
+  s_cdf319019f46cd::t_3562faf609b38f 1371-1372,1379-1380
+  s_cdf319019f46cd::t_c46f9c2fde237e 1383-1384
+  s_cdf319019f46cd::t_dba9e1be9fbdff 345
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "ba8fe4064be64f8a371c2a904aa5cceb7c7bfc94",
+  "prompts": {},
+  "humans": {
+    "h_eebeaa3a97d25d": {
+      "author": "guoxiaohui (D) <g00672350@china.huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_cdf319019f46cd": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8fca04ab61cc4f23dd842e",
+        "model": "kimi-k3"
+      },
+      "human_author": "guoxiaohui (D) <g00672350@china.huawei.com>",
+      "custom_attributes": {
+        "operation_id": "6a9917e2f67724d2a79e0b38",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "dedupe_key": "6a8fca04ab61cc4f23dd842e:6a9917e2f67724d2a79e0b38:afterEdit:f73dc58e",
+        "tool_use_id": "6a9917e2f67724d2a79e0b38",
+        "session_id": "6a8fca04ab61cc4f23dd842e",
+        "client_type": "ide",
+        "tool_type": "builtin",
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "external_session_id": "6a8fca04ab61cc4f23dd842e",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
