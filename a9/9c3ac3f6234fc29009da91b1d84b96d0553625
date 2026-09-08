@@ -1,0 +1,46 @@
+vllm_ascend/ops/mla.py
+  s_cdf319019f46cd::t_a69a5795994338 35-39,42-47,50,52-58,63-68,70-95,139
+tests/ut/attention/test_sfa_v1.py
+  s_cdf319019f46cd::t_07db7117ea1204 19,250-253,264-266,269-270,272-273,276-320,326,334-353,355-361
+vllm_ascend/attention/context_parallel/sfa_cp.py
+  s_cdf319019f46cd::t_5ae16486df2046 486-490,495,499,534
+vllm_ascend/attention/sfa_v1.py
+  s_cdf319019f46cd::t_f47786d8893dde 10,429,483-484,496,587-588,1268,1276-1294,1296,1318,1344-1347,1379-1381,1395-1398,1402-1403,1418,1423,1433-1453,1455-1464,1468-1469,1474
+vllm_ascend/attention/indexer.py
+  s_cdf319019f46cd::t_9a48589c703f59 1,4,6-10,18,20-26,28-88,92-95,101-105,110-113,144-276,278-461,473-475,490-527
+tests/ut/ops/test_mla.py
+  s_cdf319019f46cd::t_31833445ca5e77 1,11-13,17-18,29-40,42,44-53,56-193,196-334,365,368,400,413
+tests/ut/attention/test_indexer.py
+  s_cdf319019f46cd::t_4423b38e98254e 4-5,13,17-56,71-77,79,81-101,103-140
+vllm_ascend/device/device_op.py
+  s_cdf319019f46cd::t_4e6889633e479b 324-325,335-336,339-340,360,1296-1297,1304-1305,1308-1309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "a99c3ac3f6234fc29009da91b1d84b96d0553625",
+  "prompts": {},
+  "sessions": {
+    "s_cdf319019f46cd": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8fca04ab61cc4f23dd842e",
+        "model": "kimi-k3"
+      },
+      "human_author": null,
+      "custom_attributes": {
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "session_id": "6a8fca04ab61cc4f23dd842e",
+        "external_session_id": "6a8fca04ab61cc4f23dd842e",
+        "runtime_client": "trae-tob-git-ai",
+        "operation_id": "6a9efce3cbc5ad0dcd70e76e",
+        "tool_use_id": "6a9efce3cbc5ad0dcd70e76e",
+        "client_type": "ide",
+        "edit_kind": "file_edit",
+        "dedupe_key": "6a8fca04ab61cc4f23dd842e:6a9efce3cbc5ad0dcd70e76e:afterEdit:5529ba95",
+        "tool_type": "builtin",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
